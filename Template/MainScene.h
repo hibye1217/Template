@@ -5,7 +5,7 @@
 #include "Sprite.h"
 
 class MainScene : public Scene {
-public :
+public:
 	MainScene();
 	~MainScene();
 
